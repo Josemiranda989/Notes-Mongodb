@@ -1,2 +1,8 @@
-.env
+#Node dependecies
 node_modules
+
+#Environment variables
+.env
+
+# Color folder
+.vscode
