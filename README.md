@@ -11,7 +11,7 @@
 
 > Agenda con passport, mongodb, handlebars
 
-### 🏠 [Homepage](http://agenda-mongodb.heroku.com)
+### 🏠 [Homepage](https://mongo-notes.herokuapp.com/)
 
 ## Install
 
