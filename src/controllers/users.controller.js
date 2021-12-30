@@ -44,7 +44,7 @@ usersCtrl.signup = async (req, res) => { //metodo 1
 }
 
 usersCtrl.renderSignInForm = (req, res) => {
-    res.render('users/signIn.hbs')
+    res.render('users/signin.hbs')
 }
 
 usersCtrl.signin = passport.authenticate('local', {
